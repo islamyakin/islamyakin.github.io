@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-DevOps Engineer @ SEVIMA, Very interested in Cloud Native & Cloud Computing, and currently learning Chaos Engineering.
+DevOps Engineer @ SEVIMA, Very interested in Cloud Native & Cloud Computing.
 
 Thank you for your attention.
 ### Contact me
