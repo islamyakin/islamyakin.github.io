@@ -25,7 +25,8 @@ Configure Freenginx with Modules :
 cd /opt/freenginx-1.26.0/
 ```
 2. Run the configure script, specifying installation paths and enabling desired modules:
-```bash sudo ./configure \
+```bash
+sudo ./configure \
   --prefix=/var/www/html \
   --sbin-path=/usr/sbin/nginx \
   --conf-path=/etc/nginx/nginx.conf \
