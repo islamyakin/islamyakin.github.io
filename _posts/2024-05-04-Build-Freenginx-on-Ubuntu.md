@@ -3,9 +3,6 @@ layout: post
 title: Build Freenginx on Ubuntu/Debian-Based Systems from Source Code
 ---
 
-# Build Freenginx on Ubuntu/Debian-Based Systems from Source Code
-
-
 Hi everyone, this is a tutorial on building Freenginx on Ubuntu-based systems. Before proceeding, you'll need to install some additional packages.
 Prerequisites :
 ```bash
